@@ -7,7 +7,7 @@ import java.util.Map;
  * @Author: XZW
  * @Date: 2020/5/4 16:17
  * @Description: 罗马数字转Int整数：罗马数字包含I,V,X,L,C,D,M
- *                               其中： I -> 1,V -> 5,X -> 10,L -> 50,C ->100,D -> 500,M ->1000;
+ *                               其中： I -> 1,V -> 5,X -> 10,L -> 50,C ->100,D -> 500,M -> 1000;
  */
 public class RomanToInt {
     public static void main(String[] args) {
